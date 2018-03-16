@@ -332,12 +332,12 @@ Prefab:
         type: 2}
       propertyPath: cubiii2
       value: 
-      objectReference: {fileID: 2043263223}
+      objectReference: {fileID: 0}
     - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
         type: 2}
       propertyPath: cubiii1
       value: 
-      objectReference: {fileID: 2031257677}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6ca5a20833cedeb4a87d34636882a651, type: 2}
   m_IsPrefabParent: 0
@@ -566,30 +566,15 @@ Prefab:
         type: 2}
       propertyPath: cubiii2
       value: 
-      objectReference: {fileID: 2043263223}
+      objectReference: {fileID: 0}
     - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
         type: 2}
       propertyPath: cubiii1
       value: 
-      objectReference: {fileID: 2031257677}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6ca5a20833cedeb4a87d34636882a651, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &857329908 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1740631390706930, guid: 6ca5a20833cedeb4a87d34636882a651,
-    type: 2}
-  m_PrefabInternal: {fileID: 2043263222}
---- !u!1 &1449472596 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1740631390706930, guid: 6ca5a20833cedeb4a87d34636882a651,
-    type: 2}
-  m_PrefabInternal: {fileID: 291284011}
---- !u!1 &2031257677 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1740631390706930, guid: 6ca5a20833cedeb4a87d34636882a651,
-    type: 2}
-  m_PrefabInternal: {fileID: 369883245}
 --- !u!1001 &2043263222
 Prefab:
   m_ObjectHideFlags: 0
@@ -636,8 +621,3 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6ca5a20833cedeb4a87d34636882a651, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &2043263223 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1740631390706930, guid: 6ca5a20833cedeb4a87d34636882a651,
-    type: 2}
-  m_PrefabInternal: {fileID: 2043263222}
