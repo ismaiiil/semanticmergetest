@@ -270,6 +270,11 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6ca5a20833cedeb4a87d34636882a651, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &291284012 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1740631390706930, guid: 6ca5a20833cedeb4a87d34636882a651,
+    type: 2}
+  m_PrefabInternal: {fileID: 291284011}
 --- !u!1001 &369883245
 Prefab:
   m_ObjectHideFlags: 0
@@ -315,22 +320,32 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
         type: 2}
-      propertyPath: cubiii1
+      propertyPath: cubiii4
       value: 
-      objectReference: {fileID: 2031257677}
-    - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
-        type: 2}
-      propertyPath: cubiii2
-      value: 
-      objectReference: {fileID: 1449472596}
+      objectReference: {fileID: 369883246}
     - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
         type: 2}
       propertyPath: cubiii3
       value: 
-      objectReference: {fileID: 857329908}
+      objectReference: {fileID: 291284012}
+    - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
+        type: 2}
+      propertyPath: cubiii2
+      value: 
+      objectReference: {fileID: 2043263223}
+    - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
+        type: 2}
+      propertyPath: cubiii1
+      value: 
+      objectReference: {fileID: 2031257677}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6ca5a20833cedeb4a87d34636882a651, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &369883246 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1740631390706930, guid: 6ca5a20833cedeb4a87d34636882a651,
+    type: 2}
+  m_PrefabInternal: {fileID: 369883245}
 --- !u!1 &379841282
 GameObject:
   m_ObjectHideFlags: 0
@@ -539,24 +554,24 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
         type: 2}
-      propertyPath: cubiii1
+      propertyPath: cubiii4
       value: 
-      objectReference: {fileID: 2031257677}
+      objectReference: {fileID: 369883246}
     - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
         type: 2}
       propertyPath: cubiii3
       value: 
-      objectReference: {fileID: 857329908}
+      objectReference: {fileID: 291284012}
     - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
         type: 2}
       propertyPath: cubiii2
       value: 
-      objectReference: {fileID: 1449472596}
+      objectReference: {fileID: 2043263223}
     - target: {fileID: 114095182649330244, guid: 6ca5a20833cedeb4a87d34636882a651,
         type: 2}
-      propertyPath: cubiii4
+      propertyPath: cubiii1
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2031257677}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6ca5a20833cedeb4a87d34636882a651, type: 2}
   m_IsPrefabParent: 0
@@ -621,3 +636,8 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6ca5a20833cedeb4a87d34636882a651, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &2043263223 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1740631390706930, guid: 6ca5a20833cedeb4a87d34636882a651,
+    type: 2}
+  m_PrefabInternal: {fileID: 2043263222}
